@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\logitpe21\PersonalityTest\PersonalityTest\bin\Debug\netcoreapp3.1\PersonalityTest.exe
+C:\Users\opilane\source\repos\logitpe21\PersonalityTest\PersonalityTest\bin\Debug\netcoreapp3.1\PersonalityTest.deps.json
+C:\Users\opilane\source\repos\logitpe21\PersonalityTest\PersonalityTest\bin\Debug\netcoreapp3.1\PersonalityTest.runtimeconfig.json
+C:\Users\opilane\source\repos\logitpe21\PersonalityTest\PersonalityTest\bin\Debug\netcoreapp3.1\PersonalityTest.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\logitpe21\PersonalityTest\PersonalityTest\bin\Debug\netcoreapp3.1\PersonalityTest.dll
+C:\Users\opilane\source\repos\logitpe21\PersonalityTest\PersonalityTest\bin\Debug\netcoreapp3.1\PersonalityTest.pdb
+C:\Users\opilane\source\repos\logitpe21\PersonalityTest\PersonalityTest\obj\Debug\netcoreapp3.1\PersonalityTest.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\logitpe21\PersonalityTest\PersonalityTest\obj\Debug\netcoreapp3.1\PersonalityTest.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\logitpe21\PersonalityTest\PersonalityTest\obj\Debug\netcoreapp3.1\PersonalityTest.AssemblyInfo.cs
+C:\Users\opilane\source\repos\logitpe21\PersonalityTest\PersonalityTest\obj\Debug\netcoreapp3.1\PersonalityTest.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\logitpe21\PersonalityTest\PersonalityTest\obj\Debug\netcoreapp3.1\PersonalityTest.dll
+C:\Users\opilane\source\repos\logitpe21\PersonalityTest\PersonalityTest\obj\Debug\netcoreapp3.1\PersonalityTest.pdb
+C:\Users\opilane\source\repos\logitpe21\PersonalityTest\PersonalityTest\obj\Debug\netcoreapp3.1\PersonalityTest.genruntimeconfig.cache

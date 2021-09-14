@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PersonalityTest/1.0.0": {
+        "runtime": {
+          "PersonalityTest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PersonalityTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

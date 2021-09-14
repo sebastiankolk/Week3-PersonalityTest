@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\logitpe21\PersonalityTest\GradingIf\obj\Debug\netcoreapp3.1\GradingIf.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\logitpe21\PersonalityTest\GradingIf\obj\Debug\netcoreapp3.1\GradingIf.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\logitpe21\PersonalityTest\GradingIf\obj\Debug\netcoreapp3.1\GradingIf.AssemblyInfo.cs
+C:\Users\opilane\source\repos\logitpe21\PersonalityTest\GradingIf\obj\Debug\netcoreapp3.1\GradingIf.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\logitpe21\PersonalityTest\GradingIf\bin\Debug\netcoreapp3.1\GradingIf.exe
+C:\Users\opilane\source\repos\logitpe21\PersonalityTest\GradingIf\bin\Debug\netcoreapp3.1\GradingIf.deps.json
+C:\Users\opilane\source\repos\logitpe21\PersonalityTest\GradingIf\bin\Debug\netcoreapp3.1\GradingIf.runtimeconfig.json
+C:\Users\opilane\source\repos\logitpe21\PersonalityTest\GradingIf\bin\Debug\netcoreapp3.1\GradingIf.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\logitpe21\PersonalityTest\GradingIf\bin\Debug\netcoreapp3.1\GradingIf.dll
+C:\Users\opilane\source\repos\logitpe21\PersonalityTest\GradingIf\bin\Debug\netcoreapp3.1\GradingIf.pdb
+C:\Users\opilane\source\repos\logitpe21\PersonalityTest\GradingIf\obj\Debug\netcoreapp3.1\GradingIf.dll
+C:\Users\opilane\source\repos\logitpe21\PersonalityTest\GradingIf\obj\Debug\netcoreapp3.1\GradingIf.pdb
+C:\Users\opilane\source\repos\logitpe21\PersonalityTest\GradingIf\obj\Debug\netcoreapp3.1\GradingIf.genruntimeconfig.cache
